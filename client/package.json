@@ -1,0 +1,10 @@
+{
+  "name": "client",
+  "uuid": "626bccdf-6a6c-4e82-9af0-90edf0023aa3",
+  "creator": {
+    "version": "3.8.5"
+  },
+  "dependencies": {
+    "jszip": "^3.10.1"
+  }
+}
